@@ -11,11 +11,11 @@ app.use(bodyParser.json()) ;
 
 //controllers
 const categoriesController = require('./controllers/categories');
-const articleController = require('./controllers/articles');
-const commentController = require('./controllers/comment');
-const userController = require('./controllers/users');
-const authController = require('./controllers/auth');
-const followController = require('./controllers/follow');
+// const articleController = require('./controllers/articles');
+// const commentController = require('./controllers/comment');
+// const userController = require('./controllers/users');
+// const authController = require('./controllers/auth');
+// const followController = require('./controllers/follow');
 
 
 // middleware
